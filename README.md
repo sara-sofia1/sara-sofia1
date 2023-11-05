@@ -2,9 +2,9 @@
   
 # sobre mi 🌻 
 
-_Me llamo sara, me gusta leer, me interesaria aprender italiano, viajar, de por si concidero que el conocimiento y la logica es importante.
+Me llamo sara, me gusta leer, me interesaria aprender italiano, viajar, de por si concidero que el conocimiento y la logica es importante.
 
-la mayoria de lo que aprendo es por mi cuenta, me gusta saber cosas sean utiles o no_
+la mayoria de lo que aprendo es por mi cuenta, me gusta saber cosas sean utiles o no.
 
 </header>
 
