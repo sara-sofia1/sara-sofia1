@@ -4,7 +4,9 @@
 
 Me llamo sara, me gusta leer, me interesaria aprender italiano, viajar, de por si concidero que el conocimiento y la logica es importante.
 
-la mayoria de lo que aprendo es por mi cuenta, me gusta saber cosas sean utiles o no.
+la mayoria de lo que aprendo es por mi cuenta, me gusta saber cosas sean utiles o no. El conocimiento es poder, el conocimiento puede llevar a grandes cosas, todo lo que uno pueda aprender le va a ser util en algun momento, e incluso si no es asi nunca esta de mal saber, nunca esta mal tener diversos conocimientos. 
+
+
 
 </header>
 
